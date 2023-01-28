@@ -39,8 +39,9 @@ article {
     font-size: 16px;
 }
 
-.article-name > p {
+.article-name > h2 {
     font-size: 32px;
+    margin: 0;
 }
 
 
